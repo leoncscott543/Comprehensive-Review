@@ -1,0 +1,3 @@
+﻿  Stack 1.cpp
+c:\users\j\onedrive\documents\visual studio 2015\projects\stack 1\stack 1\stack 1.cpp(29): error C2561: 'push': function must return a value
+  c:\users\j\onedrive\documents\visual studio 2015\projects\stack 1\stack 1\stack 1.cpp(23): note: see declaration of 'push'
