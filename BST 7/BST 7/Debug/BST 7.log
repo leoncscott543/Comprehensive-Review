@@ -1,0 +1,5 @@
+﻿  BST 7.cpp
+c:\users\j\onedrive\documents\visual studio 2015\projects\bst 7\bst 7\bst 7.cpp(36): warning C4715: 'min': not all control paths return a value
+c:\users\j\onedrive\documents\visual studio 2015\projects\bst 7\bst 7\bst 7.cpp(42): warning C4715: 'max': not all control paths return a value
+  BST 7.vcxproj -> C:\Users\j\OneDrive\Documents\Visual Studio 2015\Projects\BST 7\Debug\BST 7.exe
+  BST 7.vcxproj -> C:\Users\j\OneDrive\Documents\Visual Studio 2015\Projects\BST 7\Debug\BST 7.pdb (Full PDB)

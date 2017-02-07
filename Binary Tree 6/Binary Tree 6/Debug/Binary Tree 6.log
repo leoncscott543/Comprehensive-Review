@@ -1,0 +1,5 @@
+﻿  Binary Tree 6.cpp
+c:\users\j\onedrive\documents\visual studio 2015\projects\binary tree 6\binary tree 6\binary tree 6.cpp(40): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\j\onedrive\documents\visual studio 2015\projects\binary tree 6\binary tree 6\binary tree 6.cpp(58): warning C4715: 'search': not all control paths return a value
+  Binary Tree 6.vcxproj -> C:\Users\j\OneDrive\Documents\Visual Studio 2015\Projects\Binary Tree 6\Debug\Binary Tree 6.exe
+  Binary Tree 6.vcxproj -> C:\Users\j\OneDrive\Documents\Visual Studio 2015\Projects\Binary Tree 6\Debug\Binary Tree 6.pdb (Full PDB)
